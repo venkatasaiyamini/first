@@ -20,6 +20,7 @@ void modify(){
             {
                 printf("Enter the employee name to modify: ");
                 scanf("%s", empname);
+		printf("yes")
                 rewind(fp);
 		fp=fopen("emp1.txt","rb+");
                 while(fread(&e,recsize,1,fp)==1)  
