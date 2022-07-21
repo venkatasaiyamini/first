@@ -132,7 +132,7 @@ void delete(){
 				scanf("%c",&another);
 				break; 
 
-		case '3' :
+		case '4' :
 
 		system("clear");
 		printf("Enter the employee Salary to delete:");
