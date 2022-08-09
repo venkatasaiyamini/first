@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-have jidjij
-=======
-Have a nice day
->>>>>>> cb47cca (Checking with Git Bash)
+yellow

@@ -1,5 +1,1 @@
-Hai,
-<<<<<<< HEAD
-=======
-Have a great day
->>>>>>> cb47cca (Checking with Git Bash)
+Great s
