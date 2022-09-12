@@ -1,5 +1,5 @@
 Hai,
-Have a great day...
-zscaler
-value
-name
+<<<<<<< HEAD
+=======
+Have a great day
+>>>>>>> cb47cca (Checking with Git Bash)

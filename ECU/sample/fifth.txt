@@ -1,6 +1,5 @@
+<<<<<<< HEAD
+have jidjij
+=======
 Have a nice day
-Great day
-python
-ruby
-Zuul
-yellow
+>>>>>>> cb47cca (Checking with Git Bash)
